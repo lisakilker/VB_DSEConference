@@ -1,0 +1,10 @@
+c:\users\lisakilker\documents\visual studio 2012\Projects\DSEConferenceApplication\DSEConferenceApplication\bin\Debug\DSEConferenceApplication.exe.config
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\DSEConferenceApplication\DSEConferenceApplication\bin\Debug\DSEConferenceApplication.exe
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\DSEConferenceApplication\DSEConferenceApplication\bin\Debug\DSEConferenceApplication.pdb
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\DSEConferenceApplication\DSEConferenceApplication\bin\Debug\DSEConferenceApplication.xml
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\DSEConferenceApplication\DSEConferenceApplication\obj\Debug\DSEConferenceApplication.frmDevelopersSkillsConference.resources
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\DSEConferenceApplication\DSEConferenceApplication\obj\Debug\DSEConferenceApplication.Resources.resources
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\DSEConferenceApplication\DSEConferenceApplication\obj\Debug\DSEConferenceApplication.vbproj.GenerateResource.Cache
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\DSEConferenceApplication\DSEConferenceApplication\obj\Debug\DSEConferenceApplication.exe
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\DSEConferenceApplication\DSEConferenceApplication\obj\Debug\DSEConferenceApplication.xml
+C:\Users\LisaKilker\Documents\Visual Studio 2012\Projects\DSEConferenceApplication\DSEConferenceApplication\obj\Debug\DSEConferenceApplication.pdb
